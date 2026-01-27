@@ -2,7 +2,7 @@
 
 This is the official PyTorch implementation for our WWW 2026 paper. 
 > Sirui Chen, Jiawei Chen, Canghong Jin, Sheng Zhou, Jingbang Chen, Wujie Sun and Can Wang. TopKGAT: A Top-K Objective-Driven Architecture for Recommendation
- [arXiv link](https://arxiv.org/abs/xxxxx)
+ [arXiv link](https://arxiv.org/abs/2601.18432)
 
 ## Environment
 - python==3.9.19
