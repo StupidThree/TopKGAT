@@ -35,3 +35,14 @@ python -u code/main.py --data=Food --TopKformer_layers=4 --emb_learning_rate=1e-
 ``` bash
 python -u code/main.py --data=Gowalla --TopKformer_layers=3 --emb_learning_rate=1e-1 --emb_reg_lambda=0
 ```
+
+## Citation
+If you find the paper useful in your research, please consider citing:
+```
+@article{chen2026topkgat,
+  title={TopKGAT: A Top-K Objective-Driven Architecture for Recommendation},
+  author={Chen, Sirui and Chen, Jiawei and Jin, Canghong and Zhou, Sheng and Chen, Jingbang and Sun, Wujie and Wang, Can},
+  journal={arXiv preprint arXiv:2601.18432},
+  year={2026}
+}
+```
